@@ -1,13 +1,17 @@
 class Solution {
     public boolean scoreBalance(String s) {
-        int ls=0;
+        int sum=0;
+        for(int i=1;i<s.length();i++){
+            sum=sum+((int)s.charAt(i)-96);
+        }
+
+        int ls=(int)s.charAt(0)-96;
         for(int i=0;i<s.length()-1;i++){
-             int rs=0;
-             ls=ls+(int)s.charAt(i)-96;
-            for(int j=i+1;j<s.length();j++){
-              rs=rs+(int)s.charAt(j)-96;   
+            if(ls!=sum){
+                sum=sum-((int)s.charAt(i+1)-96);
+                ls=ls+((int)s.charAt(i+1)-96);
             }
-            if(ls==rs){
+            else{
                 return true;
             }
         }
