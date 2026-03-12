@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1528-shuffle-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2235-add-two-integers/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2652-sum-multiples/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
