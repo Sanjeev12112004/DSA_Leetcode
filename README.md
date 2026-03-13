@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1528-shuffle-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1816-truncate-sentence](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1528-shuffle-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1528-shuffle-string/) | Easy |
+| [1816-truncate-sentence](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
