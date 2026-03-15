@@ -10,7 +10,7 @@ class Solution {
                     int h=points[p][0];
                     int k=points[p][1];
 
-                    if((Math.pow((x-h),2)+Math.pow((y-k),2))<=Math.pow(r,2)){
+                    if((x-h)*(x-h)+(y-k)*(y-k)<=r*r){
                         count++;
                     }
             }
