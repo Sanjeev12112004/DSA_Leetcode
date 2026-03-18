@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1816-truncate-sentence](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -57,17 +58,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0476-number-complement](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
