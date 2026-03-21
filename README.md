@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1528-shuffle-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1528-shuffle-string/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Queue
