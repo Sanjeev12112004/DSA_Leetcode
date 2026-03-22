@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -114,4 +115,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 <!---LeetCode Topics End-->
