@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [2235-add-two-integers](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2235-add-two-integers/) | Easy |
