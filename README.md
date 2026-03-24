@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2185-counting-words-with-a-given-prefix](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
+| [3861-minimum-capacity-box](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
