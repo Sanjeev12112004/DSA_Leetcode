@@ -1,5 +1,5 @@
 class Solution {
     public int arrangeCoins(int n) {
-        return (int)(-1+Math.sqrt(1+8*n))/2;
+        return (int)((Math.sqrt(8L*n+1)-1)/2);
     }
 }
