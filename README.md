@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0832-flipping-an-image](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0476-number-complement](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0476-number-complement/) | Easy |
+| [0832-flipping-an-image](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Hash Table
@@ -132,10 +135,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
