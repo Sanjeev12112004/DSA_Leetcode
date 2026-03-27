@@ -14,12 +14,13 @@ class Solution {
         }
         
         for(int j=0;j<nums2.length;j++){
-            if(map.containsKey(nums2[j]) && map.get(nums2[j])>0){
-                arr.add(nums2[j]);
-                map.put(nums2[j],map.get(nums2[j])-1);
+            if(map.containsKey(nums2[j])){
+                if(map.get(nums2[j])!=0){
+                  arr.add(nums2[j]);
+                  map.put(nums2[j],map.get(nums2[j])-1);
+                }
             }
         }
-        System.out.println(arr);
         int ans[]= new int[arr.size()];
         for(int k=0;k<arr.size();k++){
             ans[k]=arr.get(k);
