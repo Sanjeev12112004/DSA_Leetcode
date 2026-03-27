@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0832-flipping-an-image](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0148-sort-list/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -130,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0441-arranging-coins](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0441-arranging-coins/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -153,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0148-sort-list/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0832-flipping-an-image](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
