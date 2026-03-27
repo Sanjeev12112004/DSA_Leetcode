@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2185-counting-words-with-a-given-prefix](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Prefix Sum
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2540-minimum-common-value](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0441-arranging-coins](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0441-arranging-coins/) | Easy |
+| [2540-minimum-common-value](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2540-minimum-common-value](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
