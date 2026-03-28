@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2181-merge-nodes-in-between-zeros](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2540-minimum-common-value](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2326-spiral-matrix-iv/) | Medium |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,4 +191,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 <!---LeetCode Topics End-->
