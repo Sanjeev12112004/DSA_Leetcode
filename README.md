@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [1227-airplane-seat-assignment-probability](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0072-edit-distance/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
@@ -209,4 +211,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
