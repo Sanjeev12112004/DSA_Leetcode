@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0148-sort-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0148-sort-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0832-flipping-an-image](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0832-flipping-an-image/) | Easy |
