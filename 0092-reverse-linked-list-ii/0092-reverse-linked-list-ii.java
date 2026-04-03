@@ -9,41 +9,44 @@
  * }
  */
 class Solution {
-    public static void ReverseRange(int arr[], int s, int e){
-        int lp=s-1;
-        int rp=e-1;
+    public static ListNode reverse(ListNode head2){
+       ListNode prev=null;
+       ListNode curr=head2;
+       ListNode next;
 
-        while(lp<rp){
-            int temp=arr[lp];
-            arr[lp]=arr[rp];
-            arr[rp]=temp;
-
-            lp++;
-            rp--;
+       while(curr!=null){
+          next=curr.next;
+          curr.next=prev;
+          prev=curr;
+          curr=next;
         }
+       head2=prev;
+       return head2;
     }
     public ListNode reverseBetween(ListNode head, int left, int right) {
-        ListNode temp=head;
-        int n=0;
-        while(temp!=null){
-            n++;
-            temp=temp.next;
+        if(head==null || head.next==null) return head;
+        ListNode head2=head;
+        ListNode head3=head;
+        ListNode tail=null;
+        ListNode tail2=null;
+        for(int i=1;i<=right;i++){
+            if(i<left){
+                tail2=head2;
+                head2=head2.next;
+            }
+            tail=head3;
+            head3=head3.next;
         }
-        int arr[]= new int[n];
-        int ptr=0;
-        ListNode temp2=head;
-        while(temp2!=null){
-            arr[ptr++]=temp2.val;
-            temp2=temp2.next;
-        }
+        tail.next=null;
+        head2=reverse(head2);
 
-        ReverseRange(arr,left,right);
-        ListNode temp3=head;
-        int p=0;
-        while(temp3!=null){
-             temp3.val=arr[p++];
-             temp3=temp3.next;
+        if(tail2 != null)tail2.next =head2;
+        else head =head2;
+        
+        while(head2.next!=null){
+              head2=head2.next;
         }
+        head2.next=head3;
         return head;
     }
 }
