@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1528-shuffle-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1748-sum-of-unique-elements](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1816-truncate-sentence](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2540-minimum-common-value](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## String Matching
