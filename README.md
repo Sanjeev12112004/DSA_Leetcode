@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0148-sort-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -240,12 +242,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
