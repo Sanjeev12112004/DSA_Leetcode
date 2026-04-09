@@ -45,9 +45,5 @@ class Solution {
                }
                ptr3=(ptr3==null)?ptr3:ptr3.next;
         }
-        while(head!=null){
-            System.out.print(head.val+" ");
-            head=head.next;
-        }
     }
 }
