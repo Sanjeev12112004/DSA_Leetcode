@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0941-valid-mountain-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0941-valid-mountain-array/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [1089-duplicate-zeros](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1528-shuffle-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1528-shuffle-string/) | Easy |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0832-flipping-an-image](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [1089-duplicate-zeros](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
