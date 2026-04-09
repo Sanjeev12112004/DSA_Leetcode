@@ -31,16 +31,23 @@ class Solution {
         head2=prev;
         ListNode ptr1=head;
         ListNode ptr2=head2;
-        
+        ListNode ptr3=ptr2.next;
 
-        while(ptr1!=null && ptr2!=null){
-             ListNode temp=ptr1.next;
-             ptr1.next=new ListNode(ptr2.val);
-             ptr1=ptr1.next;
-             ptr1.next=temp;
-             ptr1=ptr1.next;
-
-             ptr2=ptr2.next;
+        while(ptr2!=null&&ptr1.next!=null){
+               ptr2.next=ptr1.next;
+               ptr1.next=ptr2;
+               ptr1=ptr1.next.next;
+               ptr2=ptr3;
+               
+               if(ptr1.next==null){
+                ptr1.next=ptr2;
+                break;
+               }
+               ptr3=(ptr3==null)?ptr3:ptr3.next;
+        }
+        while(head!=null){
+            System.out.print(head.val+" ");
+            head=head.next;
         }
     }
 }
