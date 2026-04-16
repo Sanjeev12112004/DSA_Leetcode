@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0283-move-zeroes](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0086-partition-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0086-partition-list/) | Medium |
 | [0143-reorder-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0148-sort-list/) | Medium |
+| [0283-move-zeroes](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0832-flipping-an-image](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
