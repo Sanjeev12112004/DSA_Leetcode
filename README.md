@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,10 +298,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0938-range-sum-of-bst](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
