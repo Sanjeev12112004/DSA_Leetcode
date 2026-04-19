@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0441-arranging-coins/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1227-airplane-seat-assignment-probability](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
