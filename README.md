@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0441-arranging-coins/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2460-apply-operations-to-an-array/) | Easy |
