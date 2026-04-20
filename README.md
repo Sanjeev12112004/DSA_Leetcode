@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
