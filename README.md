@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2326-spiral-matrix-iv/) | Medium |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
