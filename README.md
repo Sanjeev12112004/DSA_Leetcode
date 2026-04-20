@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1089-duplicate-zeros](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1528-shuffle-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1528-shuffle-string/) | Easy |
