@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-valid-mountain-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0941-valid-mountain-array/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1037-valid-boomerang](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
+| [1037-valid-boomerang](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [1227-airplane-seat-assignment-probability](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1037-valid-boomerang](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
