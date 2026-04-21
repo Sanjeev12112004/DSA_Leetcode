@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1837-sum-of-digits-in-base-k](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [2235-add-two-integers](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2544-alternating-digit-sum](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2652-sum-multiples](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2652-sum-multiples/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
