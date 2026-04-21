@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
+| [1837-sum-of-digits-in-base-k](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [2235-add-two-integers](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2652-sum-multiples/) | Easy |
