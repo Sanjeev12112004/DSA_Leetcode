@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0086-partition-list/) | Medium |
@@ -282,11 +283,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0148-sort-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0148-sort-list/) | Medium |
 ## Probability and Statistics
 | Problem Name | Difficulty |
@@ -295,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
