@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2326-spiral-matrix-iv](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+| [3360-stone-removal-game](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3227-vowels-game-in-a-string/) | Medium |
+| [3360-stone-removal-game](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Bit Manipulation
