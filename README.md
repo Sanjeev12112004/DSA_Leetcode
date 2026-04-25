@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0476-number-complement](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0476-number-complement/) | Easy |
 | [0645-set-mismatch](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0832-flipping-an-image](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0832-flipping-an-image/) | Easy |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
@@ -329,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
