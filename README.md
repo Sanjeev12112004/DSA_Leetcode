@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1929-concatenation-of-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1929-concatenation-of-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
