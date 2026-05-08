@@ -4,8 +4,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0044-wildcard-matching](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0165-compare-version-numbers/) | Medium |
@@ -23,8 +23,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0143-reorder-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0143-reorder-list/) | Medium |
@@ -32,8 +32,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -51,8 +51,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3360-stone-removal-game](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0054-spiral-matrix](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
@@ -103,12 +104,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0441-arranging-coins/) | Easy |
@@ -136,8 +137,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0476-number-complement](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0476-number-complement/) | Easy |
 | [0645-set-mismatch](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0645-set-mismatch/) | Easy |
@@ -146,8 +147,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -162,32 +163,32 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Geometry
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1037-valid-boomerang](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0044-wildcard-matching](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0148-sort-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -196,21 +197,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2418-sort-the-people](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2418-sort-the-people/) | Easy |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Brainteaser
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0044-wildcard-matching](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
@@ -218,12 +219,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1143-longest-common-subsequence](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -234,8 +236,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
@@ -257,16 +259,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0832-flipping-an-image](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2326-spiral-matrix-iv/) | Medium |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0086-partition-list/) | Medium |
@@ -284,8 +286,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2460-apply-operations-to-an-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0143-reorder-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -293,36 +295,37 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2487-remove-nodes-from-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0148-sort-list/) | Medium |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0148-sort-list/) | Medium |
 ## Probability and Statistics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Doubly-Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Ordered Set
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -330,14 +333,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2236-root-equals-sum-of-children](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -345,30 +348,30 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2236-root-equals-sum-of-children](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0938-range-sum-of-bst](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0496-next-greater-element-i](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0164-maximum-gap](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0164-maximum-gap/) | Medium |
 ## Radix Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0164-maximum-gap](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
