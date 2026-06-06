@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Math
 |  |
 | ------- |
