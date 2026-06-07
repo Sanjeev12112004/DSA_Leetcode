@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2614-prime-in-diagonal](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2235-add-two-integers](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2544-alternating-digit-sum/) | Easy |
+| [2614-prime-in-diagonal](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2652-sum-multiples/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2326-spiral-matrix-iv/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -368,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [2614-prime-in-diagonal](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Sanjeev12112004/DSA_Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Monotonic Stack
 |  |
